@@ -7,35 +7,35 @@ const joffreyCharacterData = {
   name: "Joffrey",
   family: "Baratheon",
   age: 16,
-  imageSource: "joffrey.jpg",
+  imageSource: "images/joffrey.jpg",
 };
 
 const jaimeCharacterData = {
   name: "Jaime",
   family: "Lannister",
   age: 45,
-  imageSource: "jaime.jpg",
+  imageSource: "images/jaime.jpg",
 };
 
 const daenerysCharacterData = {
   name: "Daenerys",
   family: "Targaryen",
   age: 30,
-  imageSource: "daenerys.jpg",
+  imageSource: "images/daenerys.jpg",
 };
 
 const tyrionCharacterData = {
   name: "Tyrion",
   family: "Lannister",
   age: 40,
-  imageSource: "tyrion.jpg",
+  imageSource: "images/tyrion.jpg",
 };
 
 const bronnCharacterData = {
   name: "Bronn",
   family: "Blackwater",
   age: 54,
-  imageSource: "bronn.jpg",
+  imageSource: "images/bronn.jpg",
 };
 
 const joffrey = new King(joffreyCharacterData, 2);
